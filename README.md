@@ -18,7 +18,7 @@ The main idea is to understand whether traders perform better when the market is
 
 
 
-I cleaned both datasets and merged them using the date. Then I converted the trade data into daily summaries like total volume, total profit or loss, and number of trades. After that, I compared these values across different market sentiments and created a few charts to visualize the results.
+I cleaned both datasets and merged them using the date. Then I converted the trade data into daily summaries like total volume, total profit or loss, and number of trades. After that, I compared these values across different market sentiments and created a few charts to visualize the results..
 
 
 
