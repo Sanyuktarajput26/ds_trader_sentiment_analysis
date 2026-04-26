@@ -26,7 +26,7 @@ I cleaned both datasets and merged them using the date. Then I converted the tra
 
 
 
-Traders are more active and more profitable during Fear and Extreme Fear periods. During Greed and Extreme Greed, both activity and profit are lower. This suggests that better opportunities often appear when the market is fearful rather than greedy.
+Traders are more active and more profitable during Fear and Extreme Fear periods. During Greed and Extreme Greed, both activity and profit are lower. This suggests that better opportunities often appear when the market is fearful rather than greedy..
 
 
 
